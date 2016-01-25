@@ -4,7 +4,7 @@ Les métiers du web décryptés
 
 ## Glossary
 
-[A](#a) · 
+[A](#a) ·
 [B](#b) ·
 [C](#c) ·
 [D](#d) ·
