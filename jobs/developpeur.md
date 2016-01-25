@@ -7,5 +7,8 @@ Le développeur web peut aussi apporter des solutions aux problèmes présents d
 2900 à 3300 euros brut par mois. Source : Blue Search conseil, 2013.
 
 #**Compte Twitter**
-[Rudy Huyn](https://twitter.com/rudyhuyn?lang=fr)
-[Classsement des 100 développeurs francophones les plus suivi sur Twitter](http://ranking.humancoders.com/rankings/developpeurs)
+ - [Rudy Huyn](https://twitter.com/rudyhuyn?lang=fr)
+ - [Classsement des 100 développeurs francophones les plus suivi sur Twitter](http://ranking.humancoders.com/rankings/developpeurs)
+
+#**Classement selon la nomenclature de l'Etat**
+[Développeur web mobile](http://www.metiers.internet.gouv.fr/metier/developpeur-web-mobile)
