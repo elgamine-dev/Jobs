@@ -10,7 +10,7 @@ Les métiers du web décryptés
 [D](#d) ·
 [E](#e) ·
 [F](#f) ·
-[G](#g) ·
+[G](#g) · 
 [H](#h) ·
 [I](#i) ·
 [J](#j) ·
@@ -48,8 +48,9 @@ Les métiers du web décryptés
 
 ### F
 
+ 
+### G [Le graphiste Web](~/jobs/graphiste.md) : Conçoit et réalise la partie graphique des interfaces de sites web ou d’applications mobiles.
 
-### G
 
 
 ### H
