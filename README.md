@@ -56,7 +56,8 @@ Les métiers du web décryptés
 
 
 ### I
-
+    ####Intégrateur
+    L’intégrateur Web est chargé de traduire et de transposer les maquettes fournies par l’équipe graphique dans un langage informatique : le HTML ... 
 
 ### J
 
@@ -98,7 +99,8 @@ Les métiers du web décryptés
 
 
 ### W
-
+    ####Webdesigner
+    Le webdesigner (ou designer d'interfaces web) est chargé de concevoir et de réaliser le design d'une interface web ...
 
 ### X
 
