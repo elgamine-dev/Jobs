@@ -10,7 +10,7 @@ Les métiers du web décryptés
 [D](#d) ·
 [E](#e) ·
 [F](#f) ·
-[G](#g) ·[Gestionnaire de base de données](jobs/gestionnaire_de_base_de_données.md) 
+[G](#g) · 
 [H](#h) ·
 [I](#i) ·
 [J](#j) ·
@@ -50,7 +50,7 @@ Les métiers du web décryptés
 
 
 ### G
-Gestionnaire de base de données : Le gestionnaire de bases de données automatise l'organisation, la sauvegarde et l'exploitation des données de l'organisation dans laquelle il travaille.
+[gestionnaire_de_base_de_données](jobs/gestionnaire_de_base_de_données) : Le gestionnaire de bases de données automatise l'organisation, la sauvegarde et l'exploitation des données de l'organisation dans laquelle il travaille.
 
 ### H
 

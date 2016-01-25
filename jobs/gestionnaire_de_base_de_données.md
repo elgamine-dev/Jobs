@@ -1,4 +1,4 @@
-Gestionnaire de base de données :
+#Gestionnaire de base de données :
 
 Le gestionnaire de bases de données automatise l'organisation, la sauvegarde et l'exploitation des données de l'organisation dans laquelle il travaille. Il participe au choix des logiciels de gestion de bases de données puis installe, configure, administre et optimise la ou les base(s) de données. Il veille à l'intégrité et à la sécurité des données. Il assure une assistance technique auprès des utilisateurs et peut également être amené à les former. Il travaille souvent au sein d'un service informatique.  
 
