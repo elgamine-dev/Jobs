@@ -7,7 +7,7 @@ Les métiers du web décryptés
 [A](#a) ·
 [B](#b) ·
 [C](#c) ·
-[D](#d) ·[Développeur Front-End](jobs/developpeur_front-end.md) : Est en charge de tout ce qui est lié à la partie visible du site ou de l'application, ce à quoi l'utilisateur ou le client a directement accès.
+[D](#d) ·
 [E](#e) ·
 [F](#f) ·
 [G](#g) ·
@@ -41,6 +41,7 @@ Les métiers du web décryptés
 
 
 ### D
+[Développeur Front End](jobs/developpeur_front-end.md) : Est en charge de tout ce qui est lié à la partie visible du site ou de l'application, ce à quoi l'utilisateur ou le client a directement accès.
 
 
 ### E
