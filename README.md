@@ -48,8 +48,10 @@ Les métiers du web décryptés
 
 ### F
 
+ 
+### G 
+[Le graphiste Web](jobs/graphiste.md) : Conçoit et réalise la partie graphique des interfaces de sites web ou d’applications mobiles.
 
-### G
 
 
 ### H
@@ -136,4 +138,3 @@ Les métiers du web décryptés
  UI/UX Designer
  Web Designer
  Webmaster
-
