@@ -68,7 +68,7 @@ Les métiers du web décryptés
 
 
 ### M
-[Moderateur_contenu](jobs/moderateur_contenu.md) : Un modérateur a pour mission d'encadrer toute page offrant un espace de discussions entre les membres d'un forum, il assure le respect de la charte et le maintien de la bienséance.
+[Moderateur contenu/forum](jobs/moderateur_contenu.md) : Un modérateur a pour mission d'encadrer toute page offrant un espace de discussions entre les membres d'un forum, il assure le respect de la charte et le maintien de la bienséance.
 
 ### N
 
