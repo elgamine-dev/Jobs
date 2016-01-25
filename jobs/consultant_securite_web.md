@@ -6,8 +6,9 @@ Il conseille donc sur les méthodes à utiliser pour protéger les transmissions
 Il travaille généralement de pair avec des hackers éthiques dont la tâche est de repérer les éventuelles failles qui pourraient être exploitées.
 
 Statistiques Janvier 2016:
-Demande nationale : ~1400
-Demande régionale : ~140
+
+- Demande nationale : ~1400
+- Demande régionale : ~140
 
 Salaire brut moyen annuel : 44,000 €
 Twitter concernant la cybersécurité :
