@@ -99,6 +99,8 @@ Les métiers du web décryptés
 
 ### W
 
+* [Webmarketeur](jobs/webmarketeur.md) : Le webmarketeur travaille sur l'élaboration de stratégies marketing et la mise en place des moyens pour la réaliser.
+* [Webmaster](jobs/webmaster.md) : Le webmaster est un administrateur de site internet, il en est responsable de sa conception à sa maintenance.
 
 ### X
 
