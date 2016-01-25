@@ -42,6 +42,7 @@ Les métiers du web décryptés
 
 ### D
 
+* [**Développeur full-stack**](jobs/developpeur_fullStack.md) : Les missions du développeur full-stack sont très diversifiées, Il peut aussi bien travailler sur le back office du site que sur le front end.
 
 ### E
 
