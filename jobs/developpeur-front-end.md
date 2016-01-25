@@ -19,10 +19,10 @@ Pour un développeur junior il peut aller de 28 à 38K€/an selon les technolog
 En sénior celui-ci varie de 42 à 65K€/an
 
 ###Quelques exemples de développeur Front-End
-[Eric Bidel](https://twitter.com/ebidel) Employé chez Google
-[Hakim El Hattab](https://twitter.com/hakimel) Co-fondateur de [Slides](https://slides.com/)
-[Jake Archibald](https://twitter.com/jaffathecake)Employé chez Google
-[Zeno Rocha](https://twitter.com/zenorocha)
+* [Eric Bidel](https://twitter.com/ebidel) Employé chez Google
+* [Hakim El Hattab](https://twitter.com/hakimel) Co-fondateur de [Slides](https://slides.com/)
+* [Jake Archibald](https://twitter.com/jaffathecake)Employé chez Google
+* [Zeno Rocha](https://twitter.com/zenorocha)
 
 ###Nomenclature retenue par l'Etat
 Programmation et Dévellopement.
