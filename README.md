@@ -107,3 +107,33 @@ Les métiers du web décryptés
 
 
 ### Z
+
+
+ Administrateur Réseau : Admin Réseau
+ Administrateur Système : AdminSys
+ Chef de projet
+ Commercial du web
+ Community Manager
+ Consultant Sécurité Web
+ Data Analyst / Scientist
+ Développeur (au sens large) : application, site web 
+ Développeur Back-End
+ Développeur Front-End
+ Développeur Full-Stack
+ Développeur mobile 
+ Développeur Opérationnel : DevOps
+ Gestionnaire de Base de données (bdd)
+ Graphiste
+ Hébergeur 
+ Intégrateur
+ Marketing Web
+ Modérateur de contenus / forums
+ Rédacteur de contenus
+ Responsable QA
+ Scrum Master
+ SEO / Référenceur 
+ Support, Maintenance et SAV
+ UI/UX Designer
+ Web Designer
+ Webmaster
+
