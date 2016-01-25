@@ -22,11 +22,7 @@ Les métiers du web décryptés
 [P](#p) ·
 [Q](#q) ·
 [R](#r) ·
-[S](#s) ·L’objectif premier d’un référenceur est d’accroître la visibilité et l’audience des sites à l’aide de techniques spécifiques et marketing. Ce métier comporte plusieurs facettes et touche les domaines marketing, commercial et technique.
-
-Au sein d’une agence Web spécialisée ou non dans le référencement, d’une entreprise ou d’une organisation, le chargé de référencement a pour mission primaire d’analyser l’environnement du site à référencer, d’identifier la cible et d’entreprendre la sélection des mots-clés révélant une grande pertinence afin d’assurer un maximum de trafic.
-
-Le référenceur élabore alors la liste des outils qui lui seront nécessaires pour travailler. Le professionnel assure le suivi du site et apporte les améliorations essentielles dans le seul but d’obtenir un trafic optimal et une meilleure visibilité sur les moteurs de recherche.
+[S](#s) ·
 [T](#t) ·
 [U](#u) ·
 [V](#v) ·
@@ -135,7 +131,12 @@ Le référenceur élabore alors la liste des outils qui lui seront nécessaires 
  Rédacteur de contenus
  Responsable QA
  Scrum Master
- SEO / Référenceur 
+ SEO / Référenceur : L’objectif premier d’un référenceur est d’accroître la visibilité et l’audience des sites à l’aide de techniques spécifiques et marketing. Ce métier comporte plusieurs facettes et touche les domaines marketing, commercial et technique.
+
+Au sein d’une agence Web spécialisée ou non dans le référencement, d’une entreprise ou d’une organisation, le chargé de référencement a pour mission primaire d’analyser l’environnement du site à référencer, d’identifier la cible et d’entreprendre la sélection des mots-clés révélant une grande pertinence afin d’assurer un maximum de trafic.
+
+Le référenceur élabore alors la liste des outils qui lui seront nécessaires pour travailler. Le professionnel assure le suivi du site et apporte les améliorations essentielles dans le seul but d’obtenir un trafic optimal et une meilleure visibilité sur les moteurs de recherche.
+
  Support, Maintenance et SAV
  UI/UX Designer
  Web Designer
