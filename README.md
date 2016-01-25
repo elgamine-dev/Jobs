@@ -8,7 +8,7 @@ Les métiers du web décryptés
 [B](#b) ·
 [C](#c) ·
 [D](#d) ·
-[E](#e) ·
+[E](#e) · 
 [F](#f) ·
 [G](#g) ·
 [H](#h) ·
@@ -37,7 +37,7 @@ Les métiers du web décryptés
 ### B
 
 
-### C
+### C [Community manager](jobs/community_manager.md): est un métier qui consiste à animer et à fédérer des communautés sur Internet 
 
 
 ### D
