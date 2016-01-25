@@ -41,6 +41,7 @@ Les métiers du web décryptés
 
 
 ### D
+[DevOps](jobs/DevOps.md) : Est autant capable de faire du développement que de l’administration, cette double compétence lui permet de gagner en réactivité. 
 
 
 ### E
@@ -86,7 +87,7 @@ Les métiers du web décryptés
 
 
 ### S
-
+[Support, Maintenance et SAV](jobs/Support_Maintenance_et_SAV.md) : Technicien traitement de données, Chargé d'assistance réseaux, Spécialiste réseaux
 
 ### T
 
@@ -132,7 +133,7 @@ Les métiers du web décryptés
  Responsable QA
  Scrum Master
  SEO / Référenceur 
- Support, Maintenance et SAV
+ Support, Maintenance et SAV : Effectue le dépannage, l'entretien et l'installation d'équipements ou de parcs d'équipements informatiques ou bureautiques
  UI/UX Designer
  Web Designer
  Webmaster
