@@ -6,7 +6,7 @@ Une base de données est comme une gigantesque "bibliothèque" dans laquelle l�
  
 En premier lieu, il veille à ce que les informations soient disponibles à tout moment. Ensuite, il fait évoluer la base de données en lui apportant des modifications. Ce poste prend de plus en plus d’ampleur et, au sein des entreprises, l’administrateur de base de données, aussi dénommé DBA (database administrator), est un homme ou une femme qui compte !.
 
-Selon la nomenclature retenue par l'Etat il est classé dans les Métiers dans l'Internet dans les infrastructures et réseaux.
+Selon la nomenclature retenue par l'Etat il est classé dans les Métiers de l'Internet dans les infrastructures et réseaux.
 
 Beaucoup d'offres d'emploi sont postées régulièrement, nous pouvons donc en conclure qu'il y a un nombre important de postes à pourvoir dans ce domaine.
 
