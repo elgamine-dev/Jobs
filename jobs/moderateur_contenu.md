@@ -10,4 +10,4 @@ Un modérateur a un salaire moyen de 1600euros.
 La demande nationale et régionale reste forte vu l'evolution actuelle du web.
 Selon la nomenclature retenue par l'Etat, il appartient a la famille de metier "Production et gestion de contenu".
 
-Lien Twitter d'un moderateur : https://twitter.com/Sy_Moderateur?lang=fr 
+Voici le [lien Twitter d'un moderateur](https://twitter.com/Sy_Moderateur?lang=fr) 
