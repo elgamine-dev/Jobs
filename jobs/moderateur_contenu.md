@@ -1,4 +1,4 @@
-Modérateur de contenus / forum 
+#Modérateur de contenus / forum 
 
 
 Un modérateur a pour mission d'encadrer toute page offrant un espace de discussions entre les membres d'un forum, il assure le respect de la charte et le maintien de la bienséance.
@@ -7,7 +7,7 @@ Il veille a la bonne vie d'un forum, qu'aucune insulte, pub ou tout autre conten
 En cas de violation, il peux fermer la discussion, il peut également sanctionner directement la personne en le bannissant du forum, la durée du bannissement diffère selon la gravite du problème.  
 Avec l'importance du web aujourd’hui,il devient essentiel pour tous les sites comprenant un espace d’expression. 
 Un modérateur a un salaire moyen de 1600euros.
-La demande nationale et régionale reste forte vu l'evolution actuel du web.
+La demande nationale et régionale reste forte vu l'evolution actuelle du web.
 Selon la nomenclature retenue par l'Etat, il appartient a la famille de metier "Production et gestion de contenu".
 
 Lien Twitter d'un moderateur : https://twitter.com/Sy_Moderateur?lang=fr 
