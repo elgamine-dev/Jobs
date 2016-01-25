@@ -87,7 +87,7 @@ Les métiers du web décryptés
 
 
 ### S 
-[Scrum Master](scrum_master.md): rôle de ScrumMaster, est l'animateur d'une équipe qui applique Scrum.scrum est un schéma d’organisation de développement de produits complexes.Scrum est considéré comme une méthode agile.
+[Scrum Master](jobs/scrum_master.md): rôle de ScrumMaster, est l'animateur d'une équipe qui applique Scrum.scrum est un schéma d’organisation de développement de produits complexes.Scrum est considéré comme une méthode agile.
 
 ### T
 
