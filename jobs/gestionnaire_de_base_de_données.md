@@ -12,5 +12,5 @@ Beaucoup d'offres d'emploi sont postées régulièrement, nous pouvons donc en c
 
 La plupart des offres d'emploi propose des salaires de bases pour débutant aux alentours de 2 000 euros par mois nous pouvons donc en conclure que Gestionnaire de base de données débutant touchera un minimum de 1500 euros par mois.
 
-https://twitter.com/NoSQLDigest
+[lien twitter](https://twitter.com/NoSQLDigest)
 
