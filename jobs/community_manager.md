@@ -11,5 +11,5 @@ Formation community managers 53% Master 2, 87% Licnece , 4% on un niveau Bac
 
 Salaire moyen community manager  oscille entre 26 000 et 40 000 euros annuels
 
-[community manager](https://twitter.com/marion_mdm)
+[Community manager](https://twitter.com/marion_mdm)
 [Portail des metiers de l'internet](http://www.metiers.internet.gouv.fr/metier/animateur-de-communaute-community-manager)
