@@ -42,7 +42,7 @@ Les métiers du web décryptés
 
 ### D
 
-[**Développeur :**](Jobs/jobs/developpeur.md) informaticien qui réalise des logiciels et les met en œuvre à l'aide de langages de programmation.
+[Développeur :](Jobs/jobs/developpeur.md) informaticien qui réalise des logiciels et les met en œuvre à l'aide de langages de programmation.
 
 ### E
 
