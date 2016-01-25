@@ -40,7 +40,8 @@ Les métiers du web décryptés
 ### C
 
 
-### D
+### D 
+[Développeur mobile](jobs/developpeur_mobile.md) :  Le développeur d'applications mobiles est chargé de la réalisation technique d'une application, basée sur un cahier des charges précis. Il calcule et conçoit des programmes informatiques pour le traitement des données.  lien: http://www.onisep.fr/Ressources/Univers-Metier/Metiers/developpeur-developpeuse-d-applications-mobiles
 
 
 ### E
@@ -85,8 +86,8 @@ Les métiers du web décryptés
 ### R
 
 
-### S
-
+### S 
+[Scrum Master](jobs/scrum_master.md): rôle de ScrumMaster, est l'animateur d'une équipe qui applique Scrum.scrum est un schéma d’organisation de développement de produits complexes.Scrum est considéré comme une méthode agile.
 
 ### T
 
