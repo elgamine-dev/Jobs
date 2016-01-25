@@ -83,6 +83,7 @@ Les métiers du web décryptés
 
 
 ### R
+[Responsable QA](~jobs/jobs/Responsable QA): Il assure un appui aux équipes de conception et de création. Il optimise la qualité globale du site web et permet d'élaborer un plan détaillé pour évoluer, améliorer et garantir sa qualité.
 
 
 ### S
@@ -92,6 +93,7 @@ Les métiers du web décryptés
 
 
 ### U
+[UX/UI Designer](~jobs/jobs/UI/UX Designer): Découlants d'une spécialisation du métier de Webdesigner, ils s'interessent à la conception de l'interface produit ainsi qu'à l'experience de utilisateur.
 
 
 ### V
