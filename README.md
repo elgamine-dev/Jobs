@@ -41,6 +41,7 @@ Les métiers du web décryptés
 
 
 ### D
+[Developpeur back end](jobs/developpeur_back_end.md): développe la totalité de l’architecture technique du site en s’appuyant sur ses compétences coté serveur.
 
 
 ### E
