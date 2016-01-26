@@ -82,7 +82,7 @@ Les métiers du web décryptés
 ### Q
 
 
-### R
+### [Rédacteur de contenus](jobs/rédacteur_de_contenus.md) : Avec la révolution de l'informatique, l'évolution d'Internet, le développement des e-communities, l'émergence des blogs et des journaux en ligne, le rédacteur web est devenu indispensable ! Peu importe le sujet ou le thème commandé par le client : le cyberjournaliste se doit de lui fournir son contenu dans les délais impartis.
 
 
 ### S
@@ -130,7 +130,6 @@ Les métiers du web décryptés
  Intégrateur
  Marketing Web
  Modérateur de contenus / forums
- Rédacteur de contenus
  Responsable QA
  Scrum Master
  SEO / Référenceur 
