@@ -41,7 +41,7 @@ Les métiers du web décryptés
 
 
 ### D
-
+[Data scientist/analyst](jobs/data_scientist.md) : responsable de la gestion et de l’analyse des mégadonnées (big data).
 
 ### E
 
