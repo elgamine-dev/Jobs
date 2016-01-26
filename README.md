@@ -38,7 +38,7 @@ Les métiers du web décryptés
 
 
 ### C
-
+[Consulant Sécurité Web](jobs/consultant_securite_web.md) : Le consultant sécurité est un prestataire en conseil sur tout ce qui concerne la sécurité des systèmes d'information (SSI) et sa branche web concerne ce qui touche le réseau internet, que ce soit au niveau du navigateur qu'au niveau du réseau en général.
 
 ### D
 [Data scientist/analyst](jobs/data_scientist.md) : responsable de la gestion et de l’analyse des mégadonnées (big data).
